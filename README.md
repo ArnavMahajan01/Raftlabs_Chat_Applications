@@ -23,6 +23,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#walkthrough">Walkthrough</a></li>
   </ol>
 </details>
 
@@ -124,3 +125,5 @@ In this section, the structure and the project flow is described.
    ![1678357362929](image/README/1678357362929.png)
    3.3 Chatroom
    ![1678357651531](image/README/1678357651531.png)
+
+## Walkthrough
